@@ -29,7 +29,7 @@
 
 ## 🚀 Try it out!  
 Click the link below to use the project:  
-🔗 [WhatsApp Analyzer](https://whatsappanalyzer-iazrdxyopdnanvz6p5gibq.streamlit.app/) 
+🔗 https://whatsappanalyzer-iazrdxyopdnanvz6p5gibq.streamlit.app/
 
 ## 📥 Installation
 
